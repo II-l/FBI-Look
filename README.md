@@ -49,6 +49,5 @@ python3 FBI-Look.py
 ---------------------
 - The project is scalable 🕊
 ---------------------
-By JOKER | <a class="" href="https://www.snapchat.com/add/j0k.y?">Snapchat 👻</a> | <a class="" href="https://instagram.com/221298?utm_medium=copy_link">instagram 🔷</a>
----------------------
-See ..
+
+
